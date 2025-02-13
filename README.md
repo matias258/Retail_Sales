@@ -1,4 +1,4 @@
-# Interactive Sales Proyect
+# Interactive Retail Sales Proyect
 
 We received a Retail Store database from a Public Domain Retail Company.
 Given the information we have, we want to analyse multiple facets of our Data:
